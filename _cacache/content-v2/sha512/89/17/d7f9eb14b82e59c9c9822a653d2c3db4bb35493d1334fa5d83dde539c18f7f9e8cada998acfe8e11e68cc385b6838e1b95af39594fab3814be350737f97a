@@ -1,0 +1,1 @@
+{"source":1700,"name":"trim","dependency":"trim","title":"Regular Expression Denial of Service in trim","url":"https://npmjs.com/advisories/1700","severity":"high","versions":["0.0.1","0.0.2","0.0.3","1.0.0","1.0.1"],"vulnerableVersions":["0.0.1","0.0.2"],"range":"<0.0.3","id":"o2GU+foYmm5LepFOY2RtUBywiAMJ/yBJb+5JGnwynEFc+IgScG2fL05u3+yFnCGgP3ST6pQwF2w22nIeHh8D3g=="}
