@@ -1,12 +1,12 @@
 import React from "react"
-import Header from "../components/Header"
+import Layout from "../components/Layout"
 
 export default function index() {
 
   return (
-    <div>
-       <Header />
-    <h1>VICTOR DE FLOS Blog.</h1>
-    </div>
+    
+       <Layout>
+    <h1>VICTOR DE FLOS Home.</h1>
+      </Layout>
   )
 }
